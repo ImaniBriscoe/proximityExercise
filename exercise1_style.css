@@ -1,13 +1,17 @@
 #testDiv1 {
-  width: 300px;
+  width: 35%;
   padding: 15px;
   margin: 10px;
+  box-sizing: border-box;
+  float: right;
 }
 #testDiv2 {
-  width: 300px;
+  width: 35%;
   padding: 15px;
   margin: 10px;
+  box-sizing: border-box;
+  float: right;
 }
 #container {
-  width: 1200;
+  width: 100%;
 }
